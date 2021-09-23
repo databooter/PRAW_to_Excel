@@ -7,28 +7,51 @@ Example scrape_session inputs:
 sub = ['Stopfossilfuels',
 
 'divestment',
+
 'environment',
+
 'energy',
+
 'climate',
+
 'renewableenergy',
+
 'electricvehicles',
+
 'climateactionplan',
+
 'climateoffensive',
+
 'everythingscience',
+
 'extinctionrebellion',
+
 'sustainability',
+
 'asksciencediscussion',
+
 'solar',
+
 'greennewdeal',
+
 'climatechange',
+
 'nuclear',
+
 'infrastructurist',
+
 'oil',
+
 'greeninvestor',
+
 'renewable',
+
 'nuclearpower',
+
 'sustainable']  
+
 query = ['hydrogen']
+
 path = (".../hydrogen")
 
 scrape_session(sub, query, path)
